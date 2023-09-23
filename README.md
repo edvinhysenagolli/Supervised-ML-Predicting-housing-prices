@@ -118,6 +118,11 @@ This project relies on several Python libraries, including scikit-learn, pandas,
   pip install -r requirements.txt
 ```
 
+## Competition
+Be part of the competition on Kaggle. 
+
+[Check it here](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
+
 ## Feedback and Contributions
 We welcome feedback and contributions from the community. If you have any suggestions, bug reports, or enhancements, please open an issue or create a pull request.
 
