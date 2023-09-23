@@ -58,7 +58,7 @@ This division between classification and regression tasks is essential for under
 6. **Implement Your Solution**
    - Report the regression model's findings and insights. Explore potential applications for predicting exact house prices.
 
-### Phase 3: Additional Challenge - Mushroom Classification
+## Additional Challenge: Mushroom Classification
 
 As part of testing the models with a different use case, we will tackle the challenge of classifying mushrooms as either poisonous or non-poisonous. This is a critical task, especially during the mushroom hunting season, to prevent accidental consumption of toxic mushrooms. The project will include guidance on identifying features indicative of poisonous mushrooms.
 
