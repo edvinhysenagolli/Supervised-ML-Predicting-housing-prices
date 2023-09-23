@@ -66,7 +66,7 @@ As part of testing the models with a different use case, we will tackle the chal
 
 Machine learning projects are iterative and often follow an agile approach. We will start by building a simple Minimum Viable Product (MVP) solution and iteratively improve it as we gain insights and expertise. Here's a simplified workflow:
 
-[image]
+![Alt Text](images/workflow.png)
 
 1. **Data Collection**: Gather relevant data about housing prices and mushroom attributes.
 
